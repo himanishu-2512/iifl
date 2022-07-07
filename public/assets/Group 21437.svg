@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="116" height="116" viewBox="0 0 116 116">
+  <defs>
+    <filter id="Ellipse_2212" x="0" y="0" width="116" height="116" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_21437" data-name="Group 21437" transform="translate(18 17)">
+    <g transform="matrix(1, 0, 0, 1, -18, -17)" filter="url(#Ellipse_2212)">
+      <circle id="Ellipse_2212-2" data-name="Ellipse 2212" cx="40" cy="40" r="40" transform="translate(18 17)" fill="#fff"/>
+    </g>
+    <g id="quiz_black_24dp" transform="translate(22 22)">
+      <g id="Group_26593" data-name="Group 26593">
+        <path id="Path_24312" data-name="Path 24312" d="M0,0H36V36H0Z" fill="none"/>
+      </g>
+      <g id="Group_26595" data-name="Group 26595" transform="translate(3 3)">
+        <g id="Group_26594" data-name="Group 26594">
+          <path id="Path_24313" data-name="Path 24313" d="M5,6H2V27a3.009,3.009,0,0,0,3,3H26V27H5Z" transform="translate(-2)" fill="#f56e28"/>
+          <path id="Path_24314" data-name="Path 24314" d="M27,2H9A3.009,3.009,0,0,0,6,5V23a3.009,3.009,0,0,0,3,3H27a3.009,3.009,0,0,0,3-3V5A3.009,3.009,0,0,0,27,2ZM18.015,21.5a1.568,1.568,0,1,1,0-3.135,1.531,1.531,0,0,1,1.56,1.56A1.562,1.562,0,0,1,18.015,21.5Zm3.75-9.255c-.945,1.4-1.845,1.815-2.34,2.715-.195.36-.27.6-.27,1.77h-2.28a4.832,4.832,0,0,1,.39-2.475c.615-1.095,1.77-1.74,2.445-2.7A1.851,1.851,0,0,0,18,8.645a2.383,2.383,0,0,0-2.25,1.845l-2.055-.855A4.464,4.464,0,0,1,17.985,6.5,4.243,4.243,0,0,1,21.75,8.39,3.761,3.761,0,0,1,21.765,12.245Z" transform="translate(0 -2)" fill="#f56e28"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="626.999" height="680" viewBox="0 0 626.999 680">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.459" x2="-0.027" y2="0.533" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.222" y1="0.083" x2="0.811" y2="0.897" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#21d7f3"/>
+      <stop offset="1" stop-color="#0638db"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.841" y1="0.533" x2="-0.101" y2="0.529" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1e1c57"/>
+      <stop offset="0.42" stop-color="#38236f"/>
+      <stop offset="1" stop-color="#5c2d91"/>
+    </linearGradient>
+    <filter id="Ellipse_2212" x="387" y="132" width="116" height="116" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_21440" data-name="Group 21440" transform="translate(-0.001 0)">
+    <g id="Group_21561" data-name="Group 21561">
+      <g id="Group_21434" data-name="Group 21434" transform="translate(0 0)">
+        <rect id="Rectangle_5442" data-name="Rectangle 5442" width="613" height="680" transform="translate(14 0)" fill="url(#linear-gradient)"/>
+        <g id="Group_18663" data-name="Group 18663" transform="translate(0 47)">
+          <g id="Group_18655" data-name="Group 18655" transform="translate(102.001 152)">
+            <ellipse id="Ellipse_698" data-name="Ellipse 698" cx="10.5" cy="10" rx="10.5" ry="10" transform="translate(-0.001 0)" fill="url(#linear-gradient-2)"/>
+            <rect id="Rectangle_4295" data-name="Rectangle 4295" width="9" height="9" rx="4.5" transform="translate(7.999 4)" fill="#fffa5c"/>
+          </g>
+          <g id="Ellipse_1900" data-name="Ellipse 1900" transform="translate(68.001 69)" fill="none" stroke="#3874de" stroke-width="1" opacity="0.4">
+            <circle cx="223.5" cy="223.5" r="223.5" stroke="none"/>
+            <circle cx="223.5" cy="223.5" r="223" fill="none"/>
+          </g>
+          <g id="Ellipse_1901" data-name="Ellipse 1901" transform="translate(0.001 0)" fill="none" stroke="#3874de" stroke-width="1" opacity="0.4">
+            <circle cx="293" cy="293" r="293" stroke="none"/>
+            <circle cx="293" cy="293" r="292.5" fill="none"/>
+          </g>
+          <g id="Group_18656" data-name="Group 18656" transform="translate(437 547)">
+            <circle id="Ellipse_698-2" data-name="Ellipse 698" cx="5.5" cy="5.5" r="5.5" transform="translate(0 0)" fill="url(#linear-gradient-3)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_21437" data-name="Group 21437" transform="translate(405 149)">
+        <g transform="matrix(1, 0, 0, 1, -405, -149)" filter="url(#Ellipse_2212)">
+          <circle id="Ellipse_2212-2" data-name="Ellipse 2212" cx="40" cy="40" r="40" transform="translate(405 149)" fill="#fff"/>
+        </g>
+        <g id="quiz_black_24dp" transform="translate(22 22)">
+          <g id="Group_26593" data-name="Group 26593">
+            <path id="Path_24312" data-name="Path 24312" d="M0,0H36V36H0Z" fill="none"/>
+          </g>
+          <g id="Group_26595" data-name="Group 26595" transform="translate(3 3)">
+            <g id="Group_26594" data-name="Group 26594">
+              <path id="Path_24313" data-name="Path 24313" d="M5,6H2V27a3.009,3.009,0,0,0,3,3H26V27H5Z" transform="translate(-2)" fill="#f56e28"/>
+              <path id="Path_24314" data-name="Path 24314" d="M27,2H9A3.009,3.009,0,0,0,6,5V23a3.009,3.009,0,0,0,3,3H27a3.009,3.009,0,0,0,3-3V5A3.009,3.009,0,0,0,27,2ZM18.015,21.5a1.568,1.568,0,1,1,0-3.135,1.531,1.531,0,0,1,1.56,1.56A1.562,1.562,0,0,1,18.015,21.5Zm3.75-9.255c-.945,1.4-1.845,1.815-2.34,2.715-.195.36-.27.6-.27,1.77h-2.28a4.832,4.832,0,0,1,.39-2.475c.615-1.095,1.77-1.74,2.445-2.7A1.851,1.851,0,0,0,18,8.645a2.383,2.383,0,0,0-2.25,1.845l-2.055-.855A4.464,4.464,0,0,1,17.985,6.5,4.243,4.243,0,0,1,21.75,8.39,3.761,3.761,0,0,1,21.765,12.245Z" transform="translate(0 -2)" fill="#f56e28"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_21438" data-name="Group 21438" transform="translate(103.001 198.999)">
+        <ellipse id="Ellipse_698-3" data-name="Ellipse 698" cx="10.5" cy="10" rx="10.5" ry="10" transform="translate(-0.001 0.001)" fill="url(#linear-gradient-3)"/>
+      </g>
+      <circle id="Ellipse_2241" data-name="Ellipse 2241" cx="16" cy="16" r="16" transform="translate(296.001 564.999)" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>

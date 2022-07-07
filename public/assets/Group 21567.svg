@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="158.459" height="174.837" viewBox="0 0 158.459 174.837">
+  <defs>
+    <filter id="Rectangle_6009" x="0" y="0" width="158.459" height="174.837" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_13729" x="54.307" y="45.236" width="51.373" height="51.373" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_13730" x="59.896" y="79.912" width="48.421" height="40.779" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_13731" x="19.536" y="48.881" width="53.938" height="74.979" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_13732" x="34.522" y="82.748" width="63.009" height="51.112" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_21567" data-name="Group 21567" transform="translate(20.358 9.978)">
+    <g transform="matrix(1, 0, 0, 1, -20.36, -9.98)" filter="url(#Rectangle_6009)">
+      <rect id="Rectangle_6009-2" data-name="Rectangle 6009" width="144.452" height="126.05" rx="12" transform="matrix(0.1, 0.99, -0.99, 0.1, 134.36, 6)" fill="#7329db"/>
+    </g>
+    <text id="SWOT_analysis" data-name="SWOT analysis" transform="matrix(0.995, -0.105, 0.105, 0.995, 3.475, 30.87)" fill="#fff" font-size="11" font-family="RoundedMplus1c-Bold, 'Rounded Mplus \31 c'" font-weight="700" letter-spacing="-0.01em"><tspan x="0" y="0">SWOT analysis</tspan></text>
+    <text id="Strengths" transform="matrix(0.995, -0.105, 0.105, 0.995, 27.475, 134.236)" fill="#fff" font-size="6" font-family="RoundedMplus1c-Regular, 'Rounded Mplus \31 c'" letter-spacing="-0.01em" opacity="0.6"><tspan x="0" y="0">Strengths</tspan></text>
+    <text id="Weakness" transform="matrix(0.995, -0.105, 0.105, 0.995, 77.475, 128.35)" fill="#fff" font-size="6" font-family="RoundedMplus1c-Regular, 'Rounded Mplus \31 c'" letter-spacing="-0.01em" opacity="0.6"><tspan x="0" y="0">Weakness</tspan></text>
+    <g id="pie-chart-svgrepo-com_1_" data-name="pie-chart-svgrepo-com (1)" transform="matrix(0.995, -0.105, 0.105, 0.995, 8.174, 48.048)">
+      <g transform="matrix(0.99, 0.1, -0.1, 0.99, -22.31, -60.69)" filter="url(#Path_13729)">
+        <path id="Path_13729-2" data-name="Path 13729" d="M31,30.4H61.365A32.7,32.7,0,0,0,31,.038Z" transform="matrix(0.99, -0.1, 0.1, 0.99, 32.47, 57.61)" fill="#e5c00e"/>
+      </g>
+      <g transform="matrix(0.99, 0.1, -0.1, 0.99, -22.31, -60.69)" filter="url(#Path_13730)">
+        <path id="Path_13730-2" data-name="Path 13730" d="M52.642,50.871a32.583,32.583,0,0,0,8.587-19.909h-28.5Z" transform="matrix(0.99, -0.1, 0.1, 0.99, 33.11, 61.52)" fill="#1fb2d1"/>
+      </g>
+      <g transform="matrix(0.99, 0.1, -0.1, 0.99, -22.31, -60.69)" filter="url(#Path_13731)">
+        <path id="Path_13731-2" data-name="Path 13731" d="M30.451,31.725V.038A32.691,32.691,0,0,0,8.046,54.13Z" transform="matrix(0.99, -0.1, 0.1, 0.99, 28.53, 58.03)" fill="#3fcc80"/>
+      </g>
+      <g transform="matrix(0.99, 0.1, -0.1, 0.99, -22.31, -60.69)" filter="url(#Path_13732)">
+        <path id="Path_13732-2" data-name="Path 13732" d="M30.772,32.376,9.962,53.186a32.664,32.664,0,0,0,42.224.6Z" transform="matrix(0.99, -0.1, 0.1, 0.99, 30.23, 62)" fill="#d53f3f"/>
+      </g>
+    </g>
+    <circle id="Ellipse_2295" data-name="Ellipse 2295" cx="4.5" cy="4.5" r="4.5" transform="translate(14 128.719)" fill="#1cd471"/>
+    <circle id="Ellipse_2296" data-name="Ellipse 2296" cx="4.5" cy="4.5" r="4.5" transform="translate(65 122.719)" fill="#f53c3c"/>
+  </g>
+</svg>

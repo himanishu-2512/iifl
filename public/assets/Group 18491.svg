@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="261" height="83" viewBox="0 0 261 83">
+  <defs>
+    <filter id="Rectangle_5421" x="0" y="0" width="261" height="83" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_18491" data-name="Group 18491" transform="translate(17.834 16.985)">
+    <g id="Group_21423" data-name="Group 21423">
+      <g transform="matrix(1, 0, 0, 1, -17.83, -16.98)" filter="url(#Rectangle_5421)">
+        <rect id="Rectangle_5421-2" data-name="Rectangle 5421" width="225" height="47" rx="8" transform="translate(18 17)" fill="#fffaf1"/>
+      </g>
+      <g id="Group_18488" data-name="Group 18488" transform="translate(11.492 7.661)">
+        <text id="Stocks" transform="translate(43.674 20.354)" fill="#303030" font-size="10" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="-0.01em"><tspan x="0" y="0">Stocks</tspan></text>
+        <g id="Group_18498" data-name="Group 18498" transform="translate(0 0)">
+          <rect id="Rectangle_5426" data-name="Rectangle 5426" width="34" height="32" rx="16" transform="translate(-0.326 0.354)" fill="#5367ff" opacity="0.1"/>
+          <path id="Path_12828" data-name="Path 12828" d="M21357.838-21154.295l5.068-8.5,6.066,3.219,5.463-8.07" transform="translate(-21350.025 21177.373)" fill="none" stroke="#5367ff" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_18502" data-name="Group 18502" transform="translate(-18338.686 15.323)">
+        <text id="_4_567" data-name="+4,567" transform="translate(18538.852 10.692)" fill="#00bc8d" font-size="10" font-family="Poppins-Regular, Poppins" letter-spacing="-0.01em"><tspan x="-32" y="0">+4,567</tspan></text>
+        <text id="_45_890" data-name="₹45,890" transform="translate(18501.852 10.692)" fill="#303030" font-size="10" font-family="Poppins-Regular, Poppins" letter-spacing="-0.01em"><tspan x="-39" y="0">₹45,890</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

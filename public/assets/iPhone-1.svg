@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="315.404" height="577.342" viewBox="0 0 315.404 577.342">
+  <defs>
+    <filter id="Body" x="0" y="0" width="315.404" height="577.342" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="iPhone" transform="translate(27 27)">
+    <g transform="matrix(1, 0, 0, 1, -27, -27)" filter="url(#Body)">
+      <path id="Body-2" data-name="Body" d="M26.4,523.342a24,24,0,0,1-24-24V176.833A1.581,1.581,0,0,1,0,175.479V143.191a1.582,1.582,0,0,1,2.4-1.353v-8.514A1.582,1.582,0,0,1,0,131.97V99.02a1.581,1.581,0,0,1,2.4-1.354V82.847A1.582,1.582,0,0,1,0,81.494V65.556A1.582,1.582,0,0,1,2.4,64.2V24a24,24,0,0,1,24-24H235.774a24,24,0,0,1,24,24v85h.05a1.58,1.58,0,0,1,1.579,1.579v57.962a1.58,1.58,0,0,1-1.579,1.579h-.05V499.342a24,24,0,0,1-24,24Z" transform="translate(27 27)" fill="#fff"/>
+    </g>
+    <path id="Screen" d="M215.179,501.622H20a20,20,0,0,1-20-20V20A20,20,0,0,1,20,0H60.238V13.015a3,3,0,0,0,3,3H170.322a3,3,0,0,0,3-3V0h41.857a20,20,0,0,1,20,20V481.622a20,20,0,0,1-20,20Z" transform="translate(13.428 10.829)" fill="#efefef"/>
+    <g id="Notch" transform="translate(79.803 12.957)">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="30" height="3.82" rx="1.91" transform="translate(35.934 2.679)" fill="#bebebe"/>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="4.634" cy="4.634" rx="4.634" ry="4.634" fill="#c7c7c7"/>
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="4.634" cy="4.634" rx="4.634" ry="4.634" transform="translate(21.183)" fill="#c7c7c7"/>
+    </g>
+  </g>
+</svg>

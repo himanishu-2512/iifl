@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="151.094" height="86.821" viewBox="0 0 151.094 86.821">
+  <defs>
+    <filter id="Ellipse_2210" x="0" y="0" width="85.762" height="86.821" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_21415" data-name="Group 21415" transform="translate(17.922 17)">
+    <g id="Group_20978" data-name="Group 20978" transform="translate(7.411 3.174)">
+      <text id="years_of_service_" data-name="years of 
+service " transform="translate(49.762 18)" fill="#f56e28" font-size="17" font-family="RoundedMplus1c-ExtraBold, 'Rounded Mplus \31 c'" font-weight="800" letter-spacing="0.004em"><tspan x="0" y="0">years of </tspan><tspan x="0" y="17">service </tspan></text>
+    </g>
+    <g id="Group_21412" data-name="Group 21412">
+      <g transform="matrix(1, 0, 0, 1, -17.92, -17)" filter="url(#Ellipse_2210)">
+        <ellipse id="Ellipse_2210-2" data-name="Ellipse 2210" cx="24.881" cy="25.41" rx="24.881" ry="25.41" transform="translate(18 17)" fill="#f56e28"/>
+      </g>
+      <text id="_25" data-name="25" transform="translate(9.078 34.409)" fill="#fff" font-size="26" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.004em"><tspan x="0" y="0">25</tspan></text>
+    </g>
+  </g>
+</svg>

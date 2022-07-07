@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69.532" height="86.614" viewBox="0 0 69.532 86.614">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.841" y1="0.533" x2="0.066" y2="0.526" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#5c2d91"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_20986" data-name="Group 20986" transform="translate(10.06) rotate(11)">
+    <g id="Group_18880" data-name="Group 18880" transform="translate(0 0)">
+      <g id="Group_18879" data-name="Group 18879" transform="translate(41.113 41.986)">
+        <rect id="Rectangle_5591" data-name="Rectangle 5591" width="17.069" height="7.018" transform="matrix(0.695, 0.719, -0.719, 0.695, 5.049, 0)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_5592" data-name="Rectangle 5592" width="33.268" height="10.406" rx="5.203" transform="matrix(0.695, 0.719, -0.719, 0.695, 9.601, 2.194)" fill="url(#linear-gradient)"/>
+      </g>
+      <path id="Subtraction_86" data-name="Subtraction 86" d="M26.363,52.725A26.369,26.369,0,0,1,16.1,2.072,26.369,26.369,0,0,1,36.624,50.653,26.2,26.2,0,0,1,26.363,52.725Zm0-47.865a21.5,21.5,0,1,0,21.5,21.5A21.528,21.528,0,0,0,26.363,4.86Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      <ellipse id="Ellipse_1963" data-name="Ellipse 1963" cx="21.503" cy="21.503" rx="21.503" ry="21.503" transform="translate(4.859 4.859)" fill="rgba(0,0,0,0.05)"/>
+    </g>
+    <path id="Path_12904" data-name="Path 12904" d="M0,0S13.8,1.661,18.169,7.234s4.044,10.694,1.987,19.1c-.364-.235,4.125-9.275-4.142-17.78S0,0,0,0Z" transform="translate(23.217 7.433)" fill="#5c2d91" opacity="0.21"/>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="286" height="84" viewBox="0 0 286 84">
+  <defs>
+    <filter id="Rectangle_5421" x="0" y="0" width="286" height="84" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_18496" data-name="Group 18496" transform="translate(17.912 17.038)">
+    <g id="Group_21425" data-name="Group 21425">
+      <g transform="matrix(1, 0, 0, 1, -17.91, -17.04)" filter="url(#Rectangle_5421)">
+        <rect id="Rectangle_5421-2" data-name="Rectangle 5421" width="250" height="48" rx="8" transform="translate(18 17)" fill="#fffaf1"/>
+      </g>
+      <g id="Group_18488" data-name="Group 18488" transform="translate(11.491 7.661)">
+        <text id="US_Stocks" data-name="US Stocks" transform="translate(44.597 21.301)" fill="#303030" font-size="10" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="-0.01em"><tspan x="0" y="0">US Stocks</tspan></text>
+        <g id="Group_18494" data-name="Group 18494" transform="translate(0 0)">
+          <rect id="Rectangle_5427" data-name="Rectangle 5427" width="34" height="33" rx="16.5" transform="translate(-0.403 0.301)" fill="#00d09c" opacity="0.12"/>
+          <path id="Path_12827" data-name="Path 12827" d="M6.781,28.548H7.988V27.025a3.908,3.908,0,0,0,3.882-3.771c0-2.619-2.025-3.121-3.882-3.567V15.675a1.9,1.9,0,0,1,1.486,1.653h2.266c-.167-2.1-1.616-3.269-3.752-3.455v-1.5H6.781v1.523c-2.3.2-3.9,1.635-3.9,3.715,0,2.619,2.043,3.139,3.9,3.6V25.3a1.851,1.851,0,0,1-1.635-1.8H2.88c0,2.1,1.635,3.344,3.9,3.548Zm2.954-5.183A1.925,1.925,0,0,1,7.988,25.3V21.526C8.992,21.842,9.735,22.306,9.735,23.365Zm-4.7-5.87a1.8,1.8,0,0,1,1.746-1.876v3.752C5.778,19.055,5.035,18.573,5.035,17.5Z" transform="translate(9.634 -3.647)" fill="#00d09c"/>
+        </g>
+      </g>
+      <g id="Group_18503" data-name="Group 18503" transform="translate(-18311.287 16.281)">
+        <text id="_4_567" data-name="+4,567" transform="translate(18539.375 10.68)" fill="#00bc8d" font-size="10" font-family="Poppins-Regular, Poppins" letter-spacing="-0.01em"><tspan x="-32" y="0">+4,567</tspan></text>
+        <text id="_45_890" data-name="₹45,890" transform="translate(18502.375 10.68)" fill="#303030" font-size="10" font-family="Poppins-Regular, Poppins" letter-spacing="-0.01em"><tspan x="-39" y="0">₹45,890</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

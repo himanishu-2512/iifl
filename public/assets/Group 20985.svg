@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="132" height="78" viewBox="0 0 132 78">
+  <defs>
+    <filter id="Ellipse_2210" x="0" y="0" width="77" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_20985" data-name="Group 20985" transform="translate(18.197 17.435)">
+    <g transform="matrix(1, 0, 0, 1, -18.2, -17.43)" filter="url(#Ellipse_2210)">
+      <ellipse id="Ellipse_2210-2" data-name="Ellipse 2210" cx="20.5" cy="21" rx="20.5" ry="21" transform="translate(18 17)" fill="#80298f"/>
+    </g>
+    <g id="Group_20978" data-name="Group 20978" transform="translate(47.892 2.709)">
+      <text id="Years_of_experince" data-name="Years of 
+experince" transform="translate(-0.088 14.856)" fill="#80298f" font-size="14" font-family="RoundedMplus1c-Bold, 'Rounded Mplus \31 c'" font-weight="700" letter-spacing="0.004em"><tspan x="0" y="0">Years of </tspan><tspan x="0" y="16">experince</tspan></text>
+    </g>
+    <g id="Group_21207" data-name="Group 21207" transform="translate(6.325 9.94)">
+      <text id="_50" data-name="50" transform="translate(0.477 16.626)" fill="#fff" font-size="16" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.004em"><tspan x="0" y="0">50</tspan></text>
+      <text id="_" data-name="+" transform="translate(22.477 12.626)" fill="#fff" font-size="9" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.004em"><tspan x="0" y="0">+</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="285" height="83" viewBox="0 0 285 83">
+  <defs>
+    <filter id="Rectangle_5421" x="0" y="0" width="285" height="83" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_18499" data-name="Group 18499" transform="translate(17.834 17.18)">
+    <g id="Group_21426" data-name="Group 21426">
+      <g transform="matrix(1, 0, 0, 1, -17.83, -17.18)" filter="url(#Rectangle_5421)">
+        <rect id="Rectangle_5421-2" data-name="Rectangle 5421" width="249" height="47" rx="8" transform="translate(18 17)" fill="#fffaf1"/>
+      </g>
+      <g id="Group_18488" data-name="Group 18488" transform="translate(11.492 6.703)">
+        <text id="Mutual_Funds" data-name="Mutual Funds" transform="translate(43.674 21.117)" fill="#303030" font-size="10" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="-0.01em"><tspan x="0" y="0">Mutual Funds</tspan></text>
+        <g id="Group_18500" data-name="Group 18500" transform="translate(0 0)">
+          <rect id="Rectangle_5433" data-name="Rectangle 5433" width="34" height="33" rx="16.5" transform="translate(-0.326 0.117)" fill="#f27021" opacity="0.12"/>
+          <g id="Group_18500-2" data-name="Group 18500" transform="translate(8.141 12.286)">
+            <circle id="Ellipse_1855" data-name="Ellipse 1855" cx="4.594" cy="4.594" r="4.594" transform="translate(0 0.656)" fill="#f27021"/>
+            <path id="Subtraction_79" data-name="Subtraction 79" d="M9.188,9.845H.467A5.314,5.314,0,0,0,2.844,6.816H9.188V9.843Zm0-3.406H2.943A5.3,5.3,0,0,0,3.067,5.3,5.235,5.235,0,0,0,2.715,3.41H9.188V6.437Zm0-3.41H2.55A5.354,5.354,0,0,0,0,.509V0H9.188V3.028Z" transform="translate(7.218 0)" fill="#f27021"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_18504" data-name="Group 18504" transform="translate(-18311.721 15.323)">
+        <text id="_4_567" data-name="+4,567" transform="translate(18538.887 11.497)" fill="#00bc8d" font-size="10" font-family="Poppins-Regular, Poppins" letter-spacing="-0.01em"><tspan x="-32" y="0">+4,567</tspan></text>
+        <text id="_45_890" data-name="₹45,890" transform="translate(18501.887 11.497)" fill="#303030" font-size="10" font-family="Poppins-Regular, Poppins" letter-spacing="-0.01em"><tspan x="-39" y="0">₹45,890</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

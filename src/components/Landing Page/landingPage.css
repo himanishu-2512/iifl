@@ -1,0 +1,217 @@
+.landing-page{
+    background-image: url("../../../public/assets/abc.png");
+    background-size:contain;
+  width:100vw;
+  align-self: center;
+    height:878px;
+    background-repeat: no-repeat;
+  position:relative;
+  margin:50px;
+
+}
+.main{
+    padding:48px;
+}
+.txt{
+  color: #FFFFFF;
+}
+.mobile{
+    background-image: url("../../../public/assets/Group 22500@2x.png");
+    background-size:contain;
+    width:374px;
+    height:416px;
+    background-repeat: no-repeat;
+    position:absolute;
+    top: 48px;
+left: 837px;
+width: 374px;
+height: 416px
+   
+}
+.content h1{
+  font-size:44px;
+    color:white;
+}
+.img{
+   width:max-content;
+   height:max-content;
+    z-index:2;
+    display:flex;
+ 
+    color:white;
+}
+
+#first-svg{
+  background-image: url("../../../public/assets/Group 19613-2.svg");
+  background-repeat:no-repeat;
+  height:48px;
+  width:48px;
+  color: aqua;
+}
+#second-svg{
+  background-image: url("../../../public/assets/Group 19613-1.svg");
+  background-repeat:no-repeat;
+  height:48px;
+  width:48px;
+}
+#third-svg{
+  background-image: url("../../../public/assets/Group 19613.svg");
+  background-repeat:no-repeat;
+  height:48px;
+  width:48px;
+}
+.svg-content{
+  opacity:0.8;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  font-size: 14px;
+  padding:20px;
+}
+.svg-content div{
+  padding-right:15px;
+}
+.input-container{
+  display:flex;
+  margin:50px 0px;
+}
+.inbtn-container{
+  display:flex;
+
+align-items: center;
+}
+input{
+  width:275px;
+  height:24px;
+  backdrop-filter:blur(22px);
+  box-shadow: 0px 3px 6px #00000029;
+border: 1px solid #FFFFFFC7;
+border-radius: 100px 4px 4px 100px;
+background: #FFFFFF2E 0% 0% no-repeat padding-box;
+ padding:12px 28px;
+ font-size:18px;
+  /* background-color:transparent; */
+  border:1px solid white;
+}
+#button{
+  width:140px;
+  height:50px;
+  padding:12px 16px;
+  background-color:#F56E28;
+  box-shadow: 0px 6px 48px #1C1C1C14;
+  border-radius: 100px;
+  font-size:18px;
+text-align: center;
+
+position:relative;
+left:-40px;
+color: white;
+}
+.btn button {
+  width:fit-content;
+  height: 48px;
+  padding:12px 24px;
+  
+box-shadow: 0px 3px 6px #00000029;
+border-radius: 100px;
+font-size: 18px;
+
+fill-opacity:0.3;
+fill:white;
+position:relative;
+}
+.card-outside-content{
+  font-size: 20px;
+  opacity:0.9;
+  color:white;
+  font-weight: bold;
+}
+.cards{
+  padding-left:48px;
+}
+.card{
+  background-repeat:  no-repeat;
+  box-shadow: 0px 3px 16px #00000029;
+  border: 1px solid #FFFFFF5C;
+  border-radius: 16px;
+
+  backdrop-filter: blur(41px);
+  background-color:transparent;
+  background-image: linear-gradient(162deg, #333EAB 0%, #24215B 100%);
+
+  width:355px;
+  height:305px;
+  
+
+}
+.first-card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size:16px;
+  font-weight: bold;
+  justify-content:flex-end;
+
+}
+.card-container{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+.card-container #first-card-img{
+  background-image: url("../../../public/assets/Mask Group 19656.png");
+  background-repeat: no-repeat;
+  height: 213px;
+ 
+}
+.first-card .card-inside-content{
+  padding:23px 29px 0px 29px;
+
+  
+}
+.first-card .card-inside-content div{
+  margin-top:20px;
+}
+.txt{
+  font-weight: bold;
+  font-size: 16px;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+.second-card .div p{
+  background: transparent linear-gradient(150deg, #333EAB 0%, #24215B 100%) 0% 0% no-repeat padding-box;
+border: 0.25px solid #FFFFFF82;
+border-radius: 16px;
+opacity: 1;
+backdrop-filter: blur(30px);
+/* -webkit-backdrop-filter: blur(30px); */
+color:#FFFFFF;
+font-size:13px;
+font-weight: 700;
+padding:6px 10px;
+margin:10px;
+}
+.second-card .div{
+  display:flex;
+}
+#second-card-img{
+  display: flex;
+  flex-direction: column;
+  margin-top:20px;
+
+}
+.second-card{
+  position: relative;
+}
+.second-card .card-inside{
+  margin: 29px 20px;
+}
+.arrow{
+  background-image: url("../../../public/assets/Group 20952.svg");
+  width: 24px;
+  height:24px;
+  position:absolute;
+  bottom:30px;
+  right:30px;
+}

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="593" height="614" viewBox="0 0 593 614">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.459" x2="-0.027" y2="0.533" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.319" y1="0.231" x2="0.646" y2="0.628" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9df8d"/>
+      <stop offset="1" stop-color="#fdb940"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_21417" data-name="Group 21417" transform="translate(-771 -965)">
+    <g id="Group_18531" data-name="Group 18531" transform="translate(-135 953)">
+      <g id="Group_21412" data-name="Group 21412">
+        <g id="Group_18533" data-name="Group 18533">
+          <g id="Ellipse_1861" data-name="Ellipse 1861" transform="translate(973 85)" fill="none" stroke="#3874de" stroke-width="1" opacity="0.4">
+            <ellipse cx="235" cy="234.5" rx="235" ry="234.5" stroke="none"/>
+            <ellipse cx="235" cy="234.5" rx="234.5" ry="234" fill="none"/>
+          </g>
+          <g id="Ellipse_1863" data-name="Ellipse 1863" transform="translate(918 35)" fill="none" stroke="#3874de" stroke-width="1" opacity="0.4">
+            <circle cx="285" cy="285" r="285" stroke="none"/>
+            <circle cx="285" cy="285" r="284.5" fill="none"/>
+          </g>
+          <rect id="Rectangle_5442" data-name="Rectangle 5442" width="559" height="614" transform="translate(940 12)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_18537" data-name="Group 18537" transform="translate(789 1401.768)">
+      <circle id="Ellipse_698" data-name="Ellipse 698" cx="15.5" cy="15.5" r="15.5" transform="translate(0 0.233)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient-2)"/>
+      <rect id="Rectangle_4295" data-name="Rectangle 4295" width="14" height="15" rx="7" transform="translate(12 5.233)" fill="#fffa5c"/>
+    </g>
+    <g id="Group_18538" data-name="Group 18538" transform="translate(881 1104.258)">
+      <ellipse id="Ellipse_698-2" data-name="Ellipse 698" cx="15.5" cy="15" rx="15.5" ry="15" transform="translate(0 -0.258)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient-2)"/>
+      <rect id="Rectangle_4295-2" data-name="Rectangle 4295" width="15" height="15" rx="7.5" transform="translate(11 3.742)" fill="#fffa5c"/>
+    </g>
+    <g id="Group_18539" data-name="Group 18539" transform="translate(931 1450)">
+      <circle id="Ellipse_698-3" data-name="Ellipse 698" cx="6.5" cy="6.5" r="6.5" transform="translate(0 0)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient-2)"/>
+      <rect id="Rectangle_4295-3" data-name="Rectangle 4295" width="6" height="7" rx="3" transform="translate(5 1)" fill="#fffa5c"/>
+    </g>
+  </g>
+</svg>

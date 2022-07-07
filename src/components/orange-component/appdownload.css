@@ -1,0 +1,62 @@
+.app-download{
+    height: 752px;
+transform: matrix(1, -0.03, 0.03, 1, 0, 0);
+position: absolute;
+/* UI Properties */
+width: 100vw;
+
+background: #F56E28 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.mobile{
+    background-image: url("../../../public/assets/Group 19745.png");
+    width: 466px;
+height: 641px;
+background-repeat: no-repeat;
+}
+.content{
+width:auto;
+height: auto;
+}
+.heading{
+background-image: url("../../../public/assets/Invest easily in stocks,on the IIFL Markets App.svg");
+width: 841px;
+height: 126px;
+padding-left:84px;
+background-repeat: no-repeat;
+position:absolute;
+top:100px;
+left:100px;
+
+}
+.img{
+    background-image: url("../../../public/assets/Group 19747.svg");
+    width:627px;
+    height:176px;
+    position:absolute;
+top:300px;
+left:100px;
+  background-repeat: no-repeat;
+
+}
+.main{
+    position: relative;
+    width: 100vw;
+    height:auto;
+}
+.app{
+    position: absolute;
+    top:0px;
+    left:0px;
+}
+.button{
+    position: absolute;
+    top:600px;
+    left:100px; 
+    font-size: 18px;
+    font-weight: bold;
+    padding:12px 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 6px 48px #1C1C1C14;
+border-radius: 24px;
+}
